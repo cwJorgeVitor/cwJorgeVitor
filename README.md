@@ -14,12 +14,12 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes sociais e currículo
  
 <div>
   
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://drive.google.com/file/d/143A-hfNeoMLLFK0U0S-MSTTbZk7MzGoS/view?usp=sharing"> <img src="https://cdn-icons-png.flaticon.com/512/662/662345.png" destino ="_blank"></a>
+  <a href = "https://drive.google.com/file/d/143A-hfNeoMLLFK0U0S-MSTTbZk7MzGoS/view?usp=sharing"> <img src="https://cdn-icons-png.flaticon.com/512/662/662345.png" style= for-the-badge&logo=Currículo&logoColor=white destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-vitor-teles-moncao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
